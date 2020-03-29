@@ -1,0 +1,14 @@
+Functions and Arguments are !Same
+>>1
+eg:-
+void function(int var1, int var2);//(This is known as Function Paramters)
+{
+	/*-----------*/
+}
+main()
+{
+	function(23,42);//(This is Known as Function Arguments)
+	return 0;
+}
+>>2
+

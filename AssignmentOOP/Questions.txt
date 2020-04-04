@@ -1,0 +1,63 @@
+							Questions:-
+
+ Assignment 1
+``````````````
+List of Programs:- 
+
+1 Write a Program to design a class having static member function named showcount() which has the property of displaying the number of objects created of the class.
+
+2 Write a Program using class to process Shopping List for a Departmental Store. The list include details such as the Code No and Price of each item
+and perform the operations like Adding, Deleting Items to the list and Printing the Total value of a Order.
+
+3 Write a Program which creates & uses array of object of a class.( for eg. implementing the list of Managers of a Company having details such as Name, Age, etc..).
+
+4 Write a Program to find Maximum out of Two Numbers using friend function.
+Note: Here one number is a member of one class and the other number is member of someotherclass.
+
+5 Write a Program to swap private data members of classes named as class_1, class_2using friend function.
+
+6 Write a Program to design a class complex to represent complex numbers. The complex class should use an external function (use it as a friend
+function) to add two complex numbers. The function should return an object of type complex representing the sum of two complex numbers.
+
+7 Write a Program using copy constructor to copy data of an object to another object.
+
+8 Write a Program to allocate memory dynamically for an object of a given class using class’s constructor.
+
+9 Write a Program to design a class to represent a matrix. The class should have the functionality to insert and retrieve the elements of the matrix.
+
+10 Write a program to design a class representing complex numbers and having the functionality of performing addition & multiplication of two complex
+numbers using operator overloading.
+
+11 Write a Program to overload operators like *, <<, >> using friend function. The following overloaded operators should work for a class vector.
+
+12 Write a program for developing a matrix class which can handle integer matrices of different dimensions. Also overload the operator for addition,
+multiplication & comparison of matrices.
+
+13 Write a program to overload new/delete operators in a class.
+
+
+ Assignment 2
+``````````````
+List of programs:- 
+1 Write a program in C++ to highlight the difference between overloaded assignment operator and copy constructor.
+
+2 Write a Program illustrating how the constructors are implemented and the order in which they are called when the classes are inherited. Use three classes named alpha, beta,gamma such that alpha, beta are base class and gamma is derived class inheriting alpha & beta.
+
+3 Write a Program to design a student class representing student roll no. and a test class (derived class of student) representing the scores of the student in various subjects and sports class representing the score in sports. The sports and test class should be inherited by a result class having the functionality to add the scores and display the final result for a student.
+
+4 Write a program to maintain the records of person with details(Name and Age)and find the eldest among them. The program must use this pointer to return the result.
+
+5 Write a Program to illustrate the use of pointers to objects which are related by inheritance.
+
+6 Write a program illustrating the use of virtual functions in class.
+
+7 Write a program to design a class representing the information regarding digital library (books, tape: book & tape should be separate classes having
+the base class as media). The class should have the functionality for adding new item, issuing, deposit etc. the program should use the runtime polymorphism.
+
+8 Write a program to show conversion from string to int and vice-versa.
+
+9 Write a program showing data conversion between objects of different classes.
+
+10 Write a program showing data conversion between objects of different classes and conversion routine should reside in destination class.
+
+11 Write a program to implement I/O operations on characters. I/O operations includes inputting a string, Calculating length of the string, Storing the string in a file, fetching the stored characters from it,etc.

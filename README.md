@@ -14,7 +14,7 @@ Object Oriented Programming with C++
 
 6. [Write a Program to design a class complex to represent complex numbers. The complex class should use an external function (use it as a friend function) to add two complex numbers. The function should return an object of type complex representing the sum of two complex numbers.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/016OverloadedConstructorsPr6_2.cpp)
 
-7. [Write a Program using copy constructor to copy data of an object to another object.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/016OverloadedConstructorsPr6_2.cpp)
+7. [Write a Program using copy constructor to copy data of an object to another object.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/017CopyConstructorPr6_4.cpp)
 
 8. [Write a Program to allocate memory dynamically for an object of a given class using class’s constructor.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/018ConstructorWithnewPr6_5.cpp)
 

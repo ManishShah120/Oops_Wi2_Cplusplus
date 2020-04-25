@@ -17,6 +17,7 @@ Assignment 1 Done:-
 
 9 Write a Program to design a class to represent a matrix. The class should have the functionality to insert and retrieve the elements of the matrix.
 
+10 Write a program to design a class representing complex numbers and having the functionality of performing addition & multiplication of two complex numbers using operator overloading.
 
 
 						|		Questions:-		|
@@ -24,9 +25,6 @@ Assignment 1 Done:-
  Assignment 1
 ``````````````
 List of Programs:-
-
-
-10 Write a program to design a class representing complex numbers and having the functionality of performing addition & multiplication of two complex numbers using operator overloading.
 
 11 Write a Program to overload operators like *, <<, >> using friend function. The following overloaded operators should work for a class vector.
 

@@ -1,7 +1,7 @@
 Assignment 1 Done:-
-2 Write a Program using class to process Shopping List for a Departmental Store. The list include details such as the Code No and Price of each item and perform the operations like Adding, Deleting Items to the list and Printing the Total value of a Order.
-
 1 Write a Program to design a class having static member function named showcount() which has the property of displaying the number of objects created of the class.
+
+2 Write a Program using class to process Shopping List for a Departmental Store. The list include details such as the Code No and Price of each item and perform the operations like Adding, Deleting Items to the list and Printing the Total value of a Order.
 
 3 Write a Program which creates & uses array of object of a class.( for eg. implementing the list of Managers of a Company having details such as Name, Age, etc..).
 

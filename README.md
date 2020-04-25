@@ -2,7 +2,7 @@
 Object Oriented Programming with C++
 
 1. Write a Program to design a class having static member function named showcount() which has the property of displaying the number of objects created of the class.[http://url]
-2. Write a Program using class to process Shopping List for a Departmental Store. The list include details such as the Code No and Price of each item and perform the operations like Adding, Deleting Items to the list and Printing the Total value of a Order.[http://url]
+2. Write a Program using class to process Shopping List for a Departmental Store. The list include details such as the Code No and Price of each item and perform the operations like Adding, Deleting Items to the list and Printing the Total value of a Order.[https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/005ProcessingShoppingListPr5_3.cpp]
 3. Write a Program which creates & uses array of object of a class.( for eg. implementing the list of Managers of a Company having details such as Name, Age, etc..).[http://url]
 4. Write a Program to find Maximum out of Two Numbers using friend function. Note: Here one number is a member of one class and the other number is member of someotherclass.[http://url]
 5. Write a Program to swap private data members of classes named as class_1, class_2 using friend function.[http://url]

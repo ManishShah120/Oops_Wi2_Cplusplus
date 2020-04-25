@@ -9,7 +9,7 @@ Object Oriented Programming with C++
 
 4. [Write a Program to find Maximum out of Two Numbers using friend function. Note: Here one number is a member of one class and the other number is member of someotherclass.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/011AFunctionFriendlyToTwoClasses.cpp)
 
-5. [Write a Program to swap private data members of classes named as class_1, class_2 using friend function.]()
+5. [Write a Program to swap private data members of classes named as class_1, class_2 using friend function.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/012SwappingPrivateDataOfClassesPr5_10.cpp)
 
 6. [Write a Program to design a class complex to represent complex numbers. The complex class should use an external function (use it as a friend function) to add two complex numbers. The function should return an object of type complex representing the sum of two complex numbers.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/016OverloadedConstructorsPr6_2.cpp)
 

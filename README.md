@@ -21,3 +21,9 @@ Object Oriented Programming with C++
 9. [Write a Program to design a class to represent a matrix. The class should have the functionality to insert and retrieve the elements of the matrix.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/019ConstructingMatrixObjectsPr6_6.cpp)
 
 10. [Write a program to design a class representing complex numbers and having the functionality of performing addition & multiplication of two complex numbers using operator overloading.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/022OverloadingplusstarOPeratorPr7_2.cpp)
+
+11. [Write a Program to overload operators like *, <<, >> using friend function. The following overloaded operators should work for a class vector.]()
+
+12. [Write a program for developing a matrix class which can handle integer matrices of different dimensions. Also overload the operator for addition, multiplication & comparison of matrices.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/024MatrixOverloadingforsumstarandcomparison.cpp)
+
+13. [Write a program to overload new/delete operators in a class.](https://github.com/ManishShah120/Oops_Wi2_Cplusplus/blob/master/AssignmentOOP/025Overload_new_delete_operators_in_a_class.cpp)
